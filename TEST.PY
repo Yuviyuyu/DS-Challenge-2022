@@ -22,6 +22,7 @@ new_text = text.translate(str.maketrans('', '', string.punctuation))
 total_text = "".join(soup.strings)
 # print(total_text)
 
+##~~~~~~~~~~~~~~`` problem how to print the last part??~~~~~~~~~~
 
 b = total_text.count('PART'.upper())
 
