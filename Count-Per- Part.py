@@ -1,9 +1,7 @@
 import re
 import pip._vendor.requests
 
-from bs4 import BeautifulSoup
-from collections import Counter
-from string import punctuation
+
 import string
 
 from selenium import webdriver
