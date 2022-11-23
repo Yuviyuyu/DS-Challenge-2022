@@ -19,7 +19,11 @@ for s in s:
     if s!= None:
         if s.endswith(('.html')):
             s_link.append(s)
-# print(s_link)
+
+##~~~~~~~~number of section~~~~~~~~~~~~~~~~##
+s_linke=s_link[1:len(s_link)]
+# print(len(s_link))
+
 driver = webdriver.Chrome(executable_path=r"C:\Users\hpcyi\Documents\Data Science\chromedriver.exe")
 n=0
 
