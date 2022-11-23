@@ -1,0 +1,383 @@
+browser.get('http://www5.austlii.edu.au/au/legis/nsw/consol_act/capva2007347/')
+
+
+['Name', 'of', 'Act']
+3
+['Commencement']
+1
+['Definitions']
+1
+['Meaning', 'of', '"personal', 'violence', 'offence"']
+5
+['Meaning', 'of', '"domestic', 'relationship"']
+4
+['Special', 'provisions--carers', 'and', 'their', 'dependants']
+5
+[17592:24088:1123/170307.076:ERROR:device_event_log_impl.cc(215)] [17:03:07.076] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+[17592:24088:1123/170307.079:ERROR:device_event_log_impl.cc(215)] [17:03:07.079] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+['Meaning', 'of', '"relative"']
+3
+['Meaning', 'of', '"intimidation"']
+3
+['Meaning', 'of', '"stalking"']
+3
+['Objects', 'of', 'Act', 'in', 'relation', 'to', 'domestic', 'violence']
+8
+['Object', 'of', 'Act', 'in', 'relation', 'to', 'personal', 'violence']
+8
+['Meaning', 'of', '"domestic', 'violence', 'offence"']
+5
+['Recording', 'of', 'domestic', 'violence', 'offences']
+5
+['Stalking', 'or', 'intimidation', 'with', 'intent', 'to', 'cause', 'fear', 'of', 'physical', 'or', 'mental', 'harm']
+13
+['Offence', 'of', 'contravening', 'apprehended', 'violence', 'order']
+6
+['Application', 'for', 'making', 'of', 'apprehended', 'domestic', 'violence', 'order', 'by', 'court']
+10
+['Court', 'may', 'make', 'apprehended', 'domestic', 'violence', 'order']
+7
+['Matters', 'to', 'be', 'considered', 'by', 'court']
+6
+['Application', 'for', 'making', 'of', 'apprehended', 'personal', 'violence', 'order', 'by', 'court']
+10
+['Court', 'may', 'make', 'apprehended', 'personal', 'violence', 'order']
+7
+['Matters', 'to', 'be', 'considered', 'by', 'court']
+6
+['Referral', 'of', 'matters', 'to', 'mediation']
+5
+['Interim', 'court', 'orders']
+3
+['Interim', 'court', 'orders', 'made', 'by', 'Registrar', 'with', 'consent']
+8
+['Interim', 'court', 'order', 'ceases', 'when', 'final', 'court', 'order', 'made', 'or', 'served']
+11
+['Referral', 'of', 'matters', 'to', 'mediation']
+5
+['Application', 'by', 'telephone,', 'facsimile', 'or', 'other', 'communication', 'device']
+8
+['When', 'application', 'may', 'be', 'made']
+5
+['Obligation', 'to', 'apply', 'for', 'provisional', 'order', 'in', 'certain', 'circumstances']
+9
+['Making', 'of', 'provisional', 'order', 'by', 'authorised', 'officer']
+7
+['Making', 'of', 'provisional', 'order', 'by', 'senior', 'police', 'officer']
+8
+['Interaction', 'with', 'existing', 'orders']
+4
+['Provisional', 'order', 'taken', 'to', 'be', 'application', 'for', 'court', 'order']
+9
+['Recording', 'of', 'provisional', 'order']
+4
+['Service']
+1
+['Duration']
+1
+['Variation', 'or', 'revocation', 'of', 'provisional', 'order', 'on', 'application', 'of', 'police', 'officer']
+11
+['Variation', 'or', 'revocation', 'of', 'provisional', 'order', 'on', 'application', 'of', 'defendant']
+10
+['Purported', 'renewal', 'or', 'continuance']
+4
+['Defects', 'in', 'interim', 'apprehended', 'domestic', 'violence', 'orders']
+7
+['Prohibitions', 'and', 'restrictions', 'imposed', 'by', 'apprehended', 'violence', 'orders']
+8
+['Prohibitions', 'taken', 'to', 'be', 'specified', 'in', 'every', 'apprehended', 'violence', 'order']
+10
+['Ancillary', 'property', 'recovery', 'orders', 'may', 'be', 'made']
+7
+['Apprehended', 'violence', 'orders', 'made', 'by', 'court', 'or', 'authorised', 'officer', 'can', 'also', 'protect', 'persons', 'with', 'whom', 'person', 'seeking', 'protection', 'has', 'a', 'domestic', 'relationship']
+22
+['Final', 'order', 'to', 'be', 'made', 'on', 'guilty', 'plea', 'or', 'guilt', 'finding', 'for', 'serious', 'offence']
+14
+['Interim', 'apprehended', 'violence', 'order', 'must', 'be', 'made', 'on', 'charge', 'for', 'certain', 'offences']
+12
+['Apprehended', 'violence', 'order', 'may', 'be', 'made', 'in', 'care', 'proceedings']
+9
+['Measures', 'to', 'protect', 'children', 'in', 'proceedings']
+6
+['Measures', 'to', 'protect', 'young', 'persons', 'in', 'proceedings']
+7
+['Questioning', 'child', 'witness', 'in', 'apprehended', 'domestic', 'violence', 'order', 'proceedings']
+9
+['Consideration', 'of', 'contact', 'with', 'children']
+5
+['Non-inclusion', 'of', 'protected', "person's", 'residential', 'address', 'in', 'applications', 'or', 'orders']
+10
+['Non-inclusion', 'of', 'health', 'care', "provider's", 'residential', 'address', 'in', 'application', 'for', 'apprehended', 'personal', 'violence', 'order', 'or', 'in', 'apprehended', 'personal', 'violence', 'order']
+20
+['Publication', 'of', 'names', 'and', 'identifying', 'information', 'about', 'children', 'and', 'other', 'persons', 'involved', 'in', 'proceedings']
+14
+['Right', 'to', 'presence', 'of', 'supportive', 'person', 'when', 'giving', 'evidence']
+9
+['Definitions']
+1
+['Making', 'of', 'application', 'for', 'an', 'order']
+6
+['Circumstances', 'in', 'which', 'police', 'must', 'make', 'application', 'for', 'order']
+9
+['False', 'or', 'misleading', 'applications', 'for', 'apprehended', 'personal', 'violence', 'order']
+9
+['Commencement', 'of', 'proceedings', 'by', 'application', 'notice']
+6
+['Commencement', 'of', 'proceedings', 'by', 'police', 'officer']
+6
+['Commencement', 'of', 'proceedings', 'by', 'protected', 'person']
+6
+['Discretion', 'to', 'refuse', 'to', 'issue', 'process', 'in', 'apprehended', 'personal', 'violence', 'order', 'matters']
+12
+['Application', 'notice', 'to', 'be', 'for', 'one', 'matter', 'only']
+8
+['Service', 'of', 'application', 'notice']
+4
+['When', 'proceedings', 'commence']
+3
+['Time', 'for', 'hearing']
+3
+['Procedure', 'if', 'party', 'not', 'present', 'on', 'hearing', 'date']
+8
+['Proceedings', 'to', 'be', 'open', 'to', 'public', 'unless', 'defendant', 'is', 'under', 'the', 'age', 'of', '18', 'years']
+15
+['Change', 'of', 'venue']
+3
+['Right', 'to', 'defend', 'action']
+4
+['Right', 'of', 'representation']
+3
+['Conduct', 'of', 'case']
+3
+['Evidence', 'to', 'be', 'on', 'oath']
+5
+['Recording', 'of', 'evidence']
+3
+['Adjournments']
+1
+['Irregularity']
+1
+['Power', 'to', 'dispense', 'with', 'rules']
+5
+['Power', 'to', 'stay', 'proceedings']
+4
+['Arrest', 'of', 'defendant', 'during', 'proceedings']
+5
+['Witnesses', 'and', 'production', 'of', 'evidence']
+5
+['Warrants', 'of', 'arrest', 'and', 'warrants', 'of', 'commitment']
+7
+['Definitions']
+1
+['Making', 'of', 'application--general']
+3
+['Making', 'of', 'application--police-initiated', 'order', 'where', 'protected', 'person', 'is', 'child']
+9
+['Commissioner', 'must', 'be', 'notified', 'if', 'application', 'relates', 'to', 'police-initiated', 'order']
+10
+['Notification', 'of', 'application', 'if', 'protected', 'person', 'is', 'child']
+8
+['Variation', 'or', 'revocation', 'of', 'final', 'apprehended', 'violence', 'orders', 'and', 'interim', 'court', 'orders']
+12
+['Variation', 'or', 'revocation', 'of', 'final', 'apprehended', 'violence', 'orders', 'and', 'interim', 'court', 'orders', 'where', 'more', 'than', 'one', 'protected', 'person']
+18
+['Variation', 'may', 'be', 'made', 'on', 'guilty', 'plea', 'or', 'guilt', 'finding', 'for', 'certain', 'offences']
+13
+['Explanation', 'of', 'final', 'apprehended', 'violence', 'orders,', 'interim', 'court', 'orders', 'and', 'variations']
+11
+['Service', 'of', 'copy', 'of', 'apprehended', 'violence', 'order,', 'interim', 'court', 'order', 'or', 'variation', 'or', 'revocation', 'of', 'any', 'such', 'order']
+18
+['Orders', 'made', 'with', 'consent', 'of', 'parties']
+6
+['Duration', 'of', 'apprehended', 'personal', 'violence', 'orders']
+6
+['Duration', 'of', 'apprehended', 'domestic', 'violence', 'orders']
+6
+['Apprehended', 'domestic', 'violence', 'orders', 'may', 'be', 'of', 'indefinite', 'duration']
+9
+['Enforcement', 'of', 'orders', 'for', 'payment', 'of', 'money']
+7
+['Concurrent', 'criminal', 'proceedings']
+3
+['Effect', 'of', 'concurrent', 'orders']
+4
+['Arrangements', 'regarding', 'classification', 'of', 'orders']
+5
+['Application', 'of', 'Bail', 'Act', '2013']
+5
+['Review', 'and', 'appeal', 'provisions', 'concerning', 'making', 'etc', 'of', 'apprehended', 'violence', 'orders']
+11
+['Presumption', 'against', 'stay', 'of', 'order']
+5
+['Rules', 'in', 'application', 'proceedings']
+4
+['Rules', 'in', 'application', 'proceedings']
+4
+['Forms']
+1
+['Warrant', 'for', 'arrest', 'of', 'defendant', 'in', 'final', 'apprehended', 'violence', 'order', 'matters']
+11
+['Detention', 'of', 'defendant', 'for', 'making', 'and', 'service', 'of', 'interim', 'apprehended', 'personal', 'violence', 'order']
+13
+['Detention', 'of', 'defendant', 'for', 'making', 'and', 'service', 'of', 'interim', 'apprehended', 'domestic', 'violence', 'order']
+13
+['Detention', 'of', 'defendant', 'where', 'recognised', 'domestic', 'violence', 'order', 'may', 'be', 'in', 'force']
+12
+['Detention', 'of', 'defendant', 'for', 'service', 'of', 'order', 'or', 'variation']
+9
+['Period', 'for', 'which', 'person', 'may', 'be', 'directed', 'to', 'remain', 'or', 'be', 'detained']
+12
+['Detention', 'of', 'person', 'at', 'police', 'station', 'or', 'other', 'place', 'or', 'in', 'vehicle']
+12
+['Searching', 'detained', 'persons']
+3
+['Records', 'required', 'to', 'be', 'kept']
+5
+['Courts', 'authorised', 'to', 'make', 'orders', 'and', 'determine', 'applications']
+8
+['Jurisdiction', 'of', 'Supreme', 'Court', 'under', 'this', 'Act']
+7
+['Jurisdiction', 'of', 'District', 'Court', 'under', 'this', 'Act']
+7
+['Definitions']
+1
+['Application', 'for', 'registration', 'of', 'external', 'protection', 'order']
+7
+['Registration', 'of', 'external', 'protection', 'order']
+5
+['Effect', 'of', 'registration', 'of', 'external', 'protection', 'order']
+7
+['Variation', 'etc', 'of', 'registered', 'external', 'protection', 'orders']
+7
+['Definitions']
+1
+['Meaning', 'of', '"primary', 'person"', 'and', '"associated', 'respondent"']
+7
+['Definition']
+1
+['Disclosure', 'of', 'information', 'by', 'all', 'agencies', 'in', 'case', 'of', 'threat']
+10
+['Disclosure', 'by', 'Local', 'Court']
+4
+['Central', 'referral', 'point']
+3
+['Local', 'co-ordination', 'points']
+3
+['Support', 'agencies']
+2
+['Access', 'to', 'information', 'collected', 'under', 'Division']
+6
+['Agency', 'must', 'comply', 'with', 'protocols']
+5
+['Relationship', 'with', 'other', 'laws']
+4
+['Part', 'has', 'no', 'effect', 'on', 'sexual', 'assault', 'communications', 'privilege']
+9
+['Regulations']
+1
+['Dealings', 'if', 'serious', 'domestic', 'violence', 'threat']
+6
+['Access', 'to', 'information', 'collected', 'in', 'respect', 'of', 'serious', 'threat']
+9
+['Protocols', 'and', 'other', 'orders', 'of', 'Minister']
+6
+['Delegation']
+1
+['Review', 'of', 'Part']
+3
+['Object', 'of', 'Part']
+3
+['Definitions']
+1
+['Local', 'DVO']
+2
+['Interstate', 'DVO']
+2
+['Registered', 'foreign', 'order']
+3
+['Domestic', 'violence', 'concerns--SA', 'and', 'WA', 'orders']
+6
+['Special', 'provisions', 'for', 'foreign', 'orders']
+5
+['Recognition', 'of', 'DVOs']
+3
+['Variations', 'to', 'DVO']
+3
+['Revocation', 'of', 'recognised', 'DVO']
+4
+['Recognised', 'DVO', 'prevails', 'over', 'earlier', 'comparable', 'DVOs']
+7
+['Making', 'of', 'new', 'orders']
+4
+['Recognised', 'DVOs', 'and', 'variations', 'are', 'enforceable', 'against', 'defendant']
+8
+['Properly', 'notified--meaning']
+2
+['Contravention', 'of', 'enforceable', 'recognised', 'DVO']
+5
+['Non-local', 'DVO', 'to', 'be', 'treated', 'as', 'local', 'DVO']
+8
+['Licences,', 'permits', 'and', 'other', 'authorisations']
+5
+['Recognition', 'of', 'disqualification', 'to', 'hold', 'firearms', 'licence']
+7
+['Recognition', 'of', 'disqualification', 'to', 'hold', 'weapons', 'permit']
+7
+['Orders', 'for', 'costs']
+3
+['Definition']
+1
+['Power', 'of', 'court', 'to', 'vary', 'or', 'revoke', 'recognised', 'non-local', 'DVOs']
+10
+['Application', 'for', 'variation', 'or', 'revocation', 'of', 'recognised', 'non-local', 'DVO']
+9
+['Decision', 'about', 'hearing', 'of', 'application']
+5
+['Issuing', 'authorities', 'may', 'obtain', 'DVO', 'information']
+6
+['Issuing', 'authorities', 'must', 'provide', 'DVO', 'information']
+6
+['Law', 'enforcement', 'agencies', 'may', 'obtain', 'DVO', 'information']
+7
+['Information', 'to', 'be', 'provided', 'to', 'law', 'enforcement', 'agencies']
+8
+['Certificate', 'evidence--notification']
+2
+['Protection', 'from', 'liability', 'where', 'local', 'DVO', 'varied', 'or', 'revoked', 'outside', 'NSW']
+11
+['Definition']
+1
+['Enforcement', 'of', 'DVOs', 'under', 'other', 'provisions']
+6
+['DVOs', 'made', 'in', 'New', 'South', 'Wales']
+6
+['DVOs', 'made', 'in', 'other', 'jurisdictions']
+5
+['DVOs', 'declared', 'to', 'be', 'recognised', 'DVOs']
+6
+['DVOs', 'declared', 'to', 'be', 'recognised', 'in', 'other', 'jurisdictions', 'before', 'commencement', 'date']
+11
+['Definition']
+1
+['Power', 'to', 'declare', 'DVO', 'to', 'be', 'recognised']
+7
+['Application', 'for', 'order']
+3
+['Functions', 'of', 'registrar', 'may', 'be', 'exercised', 'by', 'court']
+8
+['Registered', 'interstate', 'DVOs']
+3
+['Costs']
+1
+['Limitations', 'on', 'professional', 'costs', 'being', 'awarded']
+6
+['Parts', '2', 'and', '3', 'of', 'Crimes', '(Appeal', 'and', 'Review)', 'Act', '2001']
+11
+['Regulations']
+1
+['Savings,', 'transitional', 'and', 'other', 'provisions']
+5
+['Review', 'of', 'Act']
+3
+[]
+0
