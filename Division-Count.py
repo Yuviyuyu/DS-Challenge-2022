@@ -15,8 +15,7 @@ browser.get('http://www5.austlii.edu.au/au/legis/nsw/consol_act/capva2007347/')
 page_text = browser.find_element_by_xpath("html/body/pre").text
 # print(page_tag)
 
-# x=page_text.count("<b>")
-# print(x)
+
     
 string_list=[]
 c= browser.find_elements(By.XPATH, "//b[contains(text(), 'PART ')]")
