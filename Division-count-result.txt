@@ -1,0 +1,40 @@
+browser.get('http://www5.austlii.edu.au/au/legis/nsw/consol_act/capva2007347/')
+
+division count -total 18 divisions
+
+['Division', 'Preliminary', 'Definitions']
+3
+['Division', 'Application', 'for', 'order', 'Making', 'of', 'application', 'for', 'an', 'order', 'Circumstances', 'in', 'which', 'police', 'must', 'make', 'application', 'for', 'order', 'False', 'or', 'misleading', 'applications', 'for', 'apprehended', 'personal', 'violence', 'order']
+28
+['Division', 'Commencement', 'of', 'application', 'proceedings', 'Commencement', 'of', 'proceedings', 'by', 'application', 'notice', 'Commencement', 'of', 'proceedings', 'by', 'police', 'officer', 'Commencement', 'of', 'proceedings', 'by', 'protected', 'person', 'Discretion', 'to', 'refuse', 'to', 'issue', 'process', 'in', 'apprehended', 'personal', 'violence', 'order', 'matters', 'Application', 'notice', 'to', 'be', 'for', 'one', 'matter', 'only', 'Service', 'of', 'application', 'notice', 'When', 'proceedings', 'commence']
+50
+['Division', 'Hearing', 'of', 'application', 'proceedings', 'Time', 'for', 'hearing', 'Procedure', 'if', 'party', 'not', 'present', 'on', 'hearing', 'date', 'Proceedings', 'to', 'be', 'open', 'to', 'public', 'unless', 'defendant', 'is', 'under', 'the', 'age', 'of', 'years', 'Change', 'of', 'venue', 'Right', 'to', 'defend', 'action', 'Right', 'of', 'representation', 'Conduct', 'of', 'case', 'Evidence', 'to', 'be', 'on', 'oath', 'Recording', 'of', 'evidence', 'Adjournments', 'Irregularity', 'Power', 'to', 'dispense', 'with', 'rules', 'Power', 'to', 'stay', 'proceedings', 'Arrest', 'of', 'defendant', 'during', 'proceedings', 'Witnesses', 'and', 'production', 'of', 'evidence', 'Warrants', 'of', 'arrest', 'and', 'warrants', 'of', 'commitment']
+79
+['Division', 'Variation', 'or', 'revocation', 'of', 'final', 'apprehended', 'violence', 'orders', 'or', 'interim', 'court', 'orders', 'Definitions', 'Making', 'of', 'application', 'general', 'Making', 'of', 'application', 'order', 'where', 'protected', 'person', 'is', 'child', 'Commissioner', 'must', 'be', 'notified', 'if', 'application', 'relates', 'to', 'order', 'Notification', 'of', 'application', 'if', 'protected', 'person', 'is', 'child', 'Variation', 'or', 'revocation', 'of', 'final', 'apprehended', 'violence', 'orders', 'and', 'interim', 'court', 'orders', 'Variation', 'or', 'revocation', 'of', 'final', 'apprehended', 'violence', 'orders', 'and', 'interim', 'court', 'orders', 'where', 'more', 'than', 'one', 'protected', 'person', 'Variation', 'may', 'be', 'made', 'on', 'guilty', 'plea', 'or', 'guilt', 'finding', 'for', 'certain', 'offences']
+87
+['Division', 'Ancillary', 'provisions', 'Explanation', 'of', 'final', 'apprehended', 'violence', 'orders', 'interim', 'court', 'orders', 'and', 'variations', 'Service', 'of', 'copy', 'of', 'apprehended', 'violence', 'order', 'interim', 'court', 'order', 'or', 'variation', 'or', 'revocation', 'of', 'any', 'such', 'order', 'Orders', 'made', 'with', 'consent', 'of', 'parties', 'Duration', 'of', 'apprehended', 'personal', 'violence', 'orders', 'Duration', 'of', 'apprehended', 'domestic', 'violence', 'orders', 'Apprehended', 'domestic', 'violence', 'orders', 'may', 'be', 'of', 'indefinite', 'duration', 'Enforcement', 'of', 'orders', 'for', 'payment', 'of', 'money', 'Concurrent', 'criminal', 'proceedings', 'Effect', 'of', 'concurrent', 'orders', 'Arrangements', 'regarding', 'classification', 'of', 'orders', 'Application', 'of', 'Bail', 'Act']
+82
+['Division', 'Appeals', 'Review', 'and', 'appeal', 'provisions', 'concerning', 'making', 'etc', 'of', 'apprehended', 'violence', 'orders', 'Presumption', 'against', 'stay', 'of', 'order']
+18
+['Division', 'Rules', 'Rules', 'in', 'application', 'proceedings', 'Forms']
+7
+['Division', 'Preliminary', 'Definitions', 'Meaning', 'of', 'primary', 'person', 'and', 'associated', 'respondent']
+10
+['Division', 'General', 'dealings', 'with', 'information', 'Definition', 'Disclosure', 'of', 'information', 'by', 'all', 'agencies', 'in', 'case', 'of', 'threat', 'Disclosure', 'by', 'Local', 'Court', 'Central', 'referral', 'point', 'Local', 'points', 'Support', 'agencies', 'Access', 'to', 'information', 'collected', 'under', 'Division', 'Agency', 'must', 'comply', 'with', 'protocols', 'Relationship', 'with', 'other', 'laws', 'Part', 'has', 'no', 'effect', 'on', 'sexual', 'assault', 'communications', 'privilege', 'Regulations']
+52
+['Division', 'Dealings', 'where', 'serious', 'threat', 'Dealings', 'if', 'serious', 'domestic', 'violence', 'threat', 'Access', 'to', 'information', 'collected', 'in', 'respect', 'of', 'serious', 'threat']
+20
+['Division', 'Miscellaneous', 'Protocols', 'and', 'other', 'orders', 'of', 'Minister', 'Delegation', 'Review', 'of', 'Part']      
+12
+['Division', 'Preliminary', 'Object', 'of', 'Part', 'Definitions', 'Local', 'DVO', 'Interstate', 'DVO', 'Registered', 'foreign', 'order', 'Domestic', 'violence', 'concerns', 'SA', 'and', 'WA', 'orders', 'Special', 'provisions', 'for', 'foreign', 'orders']     
+25
+['Division', 'National', 'recognition', 'of', 'DVOs', 'Subdivision', 'General', 'principles', 'Recognition', 'of', 'DVOs', 'Variations', 'to', 'DVO', 'Revocation', 'of', 'recognised', 'DVO', 'Recognised', 'DVO', 'prevails', 'over', 'earlier', 'comparable', 'DVOs', 'Making', 'of', 'new', 'orders', 'Subdivision', 'Enforcement', 'of', 'recognised', 'DVOs', 'Recognised', 'DVOs', 'and', 'variations', 'are', 'enforceable', 'against', 'defendant', 'Properly', 'notified', 'meaning', 'Contravention', 'of', 'enforceable', 'recognised', 'DVO', 'Subdivision', 'Enforcement', 'of', 'DVOs', 'DVO', 'to', 'be', 'treated', 'as', 'local', 'DVO', 'Licences', 'permits', 'and', 'other', 'authorisations', 'Recognition', 'of', 'disqualification', 'to', 'hold', 'firearms', 'licence', 'Recognition', 'of', 'disqualification', 'to', 'hold', 'weapons', 'permit', 'Orders', 'for', 'costs']
+83
+['Division', 'Variation', 'and', 'revocation', 'of', 'recognised', 'DVOs', 'Definition', 'Power', 'of', 'court', 'to', 'vary', 'or', 'revoke', 'recognised', 'DVOs', 'Application', 'for', 'variation', 'or', 'revocation', 'of', 'recognised', 'DVO', 'Decision', 'about', 'hearing', 'of', 'application']
+30
+['Division', 'Exchange', 'of', 'information', 'Note', 'Issuing', 'authorities', 'may', 'obtain', 'DVO', 'information', 'Issuing', 'authorities', 'must', 'provide', 'DVO', 'information', 'Law', 'enforcement', 'agencies', 'may', 'obtain', 'DVO', 'information', 'Information', 'to', 'be', 'provided', 'to', 'law', 'enforcement', 'agencies']
+32
+['Division', 'Miscellaneous', 'Certificate', 'evidence', 'notification', 'Protection', 'from', 'liability', 'where', 'local', 'DVO', 'varied', 'or', 'revoked', 'outside', 'NSW']
+16
+['Division', 'Provisions', 'consequent', 'on', 'enactment', 'of', 'Crimes', 'Domestic', 'and', 'Personal', 'Violence', 'Amendment', 'National', 'Domestic', 'Violence', 'Orders', 'Recognition', 'Act', 'Subdivision', 'Preliminary', 'Definition', 'Enforcement', 'of', 'DVOs', 'under', 'other', 'provisions', 'Subdivision', 'DVOs', 'to', 'which', 'scheme', 'applies', 'DVOs', 'made', 'in', 'New', 'South', 'Wales', 'DVOs', 'made', 'in', 'other', 'jurisdictions', 'Subdivision', 'Extension', 'of', 'scheme', 'to', 'older', 'DVOs', 'DVOs', 'declared', 'to', 'be', 'recognised', 'DVOs', 'DVOs', 'declared', 'to', 'be', 'recognised', 'in', 'other', 'jurisdictions', 'before', 'commencement', 'date', 'Subdivision', 'Power', 'to', 'declare', 'DVO', 'to', 'be', 'recognised', 'Definition', 'Power', 'to', 'declare', 'DVO', 'to', 'be', 'recognised', 'Application', 'for', 'order', 'Functions', 'of', 'registrar', 'may', 'be', 'exercised', 'by', 'court', 'Subdivision', 'Existing', 'registered', 'external', 'DVOs', 'Registered', 'interstate', 'DVOs'] 
+103
