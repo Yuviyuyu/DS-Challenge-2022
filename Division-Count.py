@@ -12,11 +12,12 @@ browser = webdriver.Chrome(executable_path=r"C:\Users\hpcyi\Documents\Data Scien
 browser.get('http://www5.austlii.edu.au/au/legis/nsw/consol_act/capva2007347/')
 
 
+####~~~~~~get the body text~~~~~~#####
 page_text = browser.find_element_by_xpath("html/body/pre").text
-# print(page_tag)
+# print(page_tex)
 
 
-    
+ ####~~~~~~~~~~~~~get the PART title into a list~~~~~~~~~~~~####   
 string_list=[]
 c= browser.find_elements(By.XPATH, "//b[contains(text(), 'PART ')]")
 for element in c:
@@ -25,7 +26,7 @@ for element in c:
     string_list.append(text)
 # print(string_list)    
     
-    
+####~~~~~~~~~~~~~get the Division title into a list~~~~~~~~~~~~####      
 div_list=[]
 c= browser.find_elements(By.XPATH, "//b[contains(text(), 'Division ')]")
 for element in c:
@@ -35,7 +36,7 @@ for element in c:
 print(len(div_list))
 
 
-
+####~~~~~~~~~~~~~find the duplicated division title and index their positions~~~~~~~~~~~~####  
 index_number=[]
 for idx in div_list:
     
@@ -44,6 +45,8 @@ for idx in div_list:
         index_number=[index for index, div in enumerate(div_list) if div ==idx]
         
 # print(index_number)      
+
+####~~~~~~~~~~~~~slice Division titles into 3 parts~~~~~~~~~~~~####  
 div_idx=[]
 
 num=len(div_list[0:index_number[1]])
@@ -53,7 +56,8 @@ div_idx.append(num1)
 num2=len(div_list[index_number[2]:len(div_list)])
 div_idx.append(num2) 
 # print(div_idx) 
-      
+
+####~~~~~~~~~~~~~get the all PARTs ~~~~~~~~~~~~####  
 n=0
 total=[]
 for x in range(0,len(string_list)):
@@ -75,6 +79,7 @@ for x in range(0,len(string_list)):
     n=n+1
 # print(total)   
 
+####~~~~~~~~~~~~~find which part has division~~~~~~~~~~~~####  
 div_part=[]
 division_part= 'Division '
 for div in total:
@@ -82,6 +87,7 @@ for div in total:
         div_part.append(div)
 # print(div_part)
 
+####~~~~~~~~~~~~~locate divisions in each part and count word per division ~~~~~~~~~~~~####  
 a=0
 x=0
 for div in div_part:
