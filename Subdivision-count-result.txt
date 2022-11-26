@@ -1,0 +1,59 @@
+
+browser.get('http://www5.austlii.edu.au/au/legis/nsw/consol_act/capva2007347/')
+total 8 subdivisions
+
+Subdivision 1 - General principles
+
+   98Y.    Recognition of DVOs
+   98Z.    Variations to DVO
+   98ZA.   Revocation of recognised DVO
+   98ZB.   Recognised DVO prevails over earlier comparable DVOs
+   98ZC.   Making of new orders
+
+
+['Subdivision', 'General', 'principles', 'Recognition', 'of', 'DVOs', 'Variations', 'to', 'DVO', 'Revocation', 'of', 'recognised', 'DVO', 'Recognised', 'DVO', 'prevails', 'over', 'earlier', 'comparable', 'DVOs', 'Making', 'of', 'new', 'orders']
+24
+Subdivision 2 - Enforcement of recognised DVOs
+
+   98ZD.   Recognised DVOs and variations are enforceable against defendant
+   98ZE.   Properly notified--meaning
+   98ZF.   Contravention of enforceable recognised DVO
+
+
+['Subdivision', 'Enforcement', 'of', 'recognised', 'DVOs', 'Recognised', 'DVOs', 'and', 'variations', 'are', 'enforceable', 'against', 'defendant', 'Properly', 'notified', 'meaning', 'Contravention', 'of', 'enforceable', 'recognised', 'DVO']
+21
+Subdivision 3 - Enforcement of non-local DVOs
+
+   98ZG.   Non-local DVO to be treated as local DVO
+   98ZH.   Licences, permits and other authorisations
+   98ZI.   Recognition of disqualification to hold firearms licence
+   98ZJ.   Recognition of disqualification to hold weapons permit
+   98ZK.   Orders for costs
+
+
+['Subdivision', 'Enforcement', 'of', 'DVOs', 'DVO', 'to', 'be', 'treated', 'as', 'local', 'DVO', 'Licences', 'permits', 'and', 'other', 'authorisations', 'Recognition', 'of', 'disqualification', 'to', 'hold', 'firearms', 'licence', 'Recognition', 'of', 'disqualification', 'to', 'hold', 'weapons', 'permit', 'Orders', 'for', 'costs']
+33
+Subdivision 1 - Preliminary
+
+   98ZU.   Definition
+   98ZV.   Enforcement of DVOs under other provisions
+
+
+['Subdivision', 'Preliminary', 'Definition', 'Enforcement', 'of', 'DVOs', 'under', 'other', 'provisions']
+9
+Subdivision 2 - DVOs to which scheme applies
+
+   98ZW.   DVOs made in New South Wales
+   98ZX.   DVOs made in other jurisdictions
+
+
+['Subdivision', 'DVOs', 'to', 'which', 'scheme', 'applies', 'DVOs', 'made', 'in', 'New', 'South', 'Wales', 'DVOs', 'made', 'in', 'other', 'jurisdictions']
+17
+Subdivision 3 - Extension of scheme to older DVOs
+
+   98ZY.   DVOs declared to be recognised DVOs
+   98ZZ.   DVOs declared to be recognised in other jurisdictions before commencement date
+
+
+['Subdivision', 'Extension', 'of', 'scheme', 'to', 'older', 'DVOs', 'DVOs', 'declared', 'to', 'be', 'recognised', 'DVOs', 'DVOs', 'declared', 'to', 'be', 'recognised', 'in', 'other', 'jurisdictions', 'before', 'commencement', 'date']
+24
