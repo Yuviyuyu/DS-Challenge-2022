@@ -3,11 +3,12 @@ import io
 import string
 from selenium import webdriver
 from selenium.common.exceptions import NoSuchElementException
-import pandas as pd
+import nltk
+from nltk.tokenize import sent_tokenize
+import syllables
 # browser =webdriver.Chrome()
 
 browser = webdriver.Chrome(executable_path=r"C:\Users\ysenz\chromedriver.exe")  # Path to where I installed the web driver
-
 browser.get('http://www5.austlii.edu.au/au/legis/nsw/consol_act/capva2007347/')
 
 chapters = []
@@ -45,12 +46,6 @@ for element in d:
     # print(d_text)
     divisions.append(d_text)
 # print(divisions)
-for element in range():
-    start = 
-
-
-df_div = pd.DataFrame({"divisions": divisions})
-print(df_div)
 
 # -------------- Find Subdivision and put into a list -------------- #        
 sd = browser.find_elements_by_xpath("//b[contains(text(), 'Subdivision ')]")
@@ -71,7 +66,7 @@ for element in sd:
 # for url in sec_urls:
 #     browser.get(url)
 #     # -------------- Extra section contents -------------- #   
-#     t = browser.find_elements_by_xpath("//*[self::h3 or self::h4]")
+#     t = browser.find_elements_by_xpath("//*[self::h3 or self::h4 or self::b]")
 #     for element in t:
 #         title = element.text
 #         # print(title)
@@ -107,14 +102,37 @@ browser.quit()
 
 # -------------- Count words for chapters and parts -------------- #      
 def countWords(listName):
-    listName = ' '.join(listName).replace("--", " ")
+    listName = ' '.join(listName).replace("--", " ").translate(str.maketrans('','',string.punctuation))
     listName_count = len(listName.split())
     return listName_count
 
-# -------------- Task 1 to 3. Word count of a legislative text  -------------- #    
+# -------------- Task 1 to 3 Word count of a legislative text  -------------- #    
 
 
+# -------------- Task 4 to 5 Calculate Flesch Reading Ease score -------------- #    
 
-# page_text = ''.join(page_text).replace("--", " ")
-# page_text_count = len(page_text.split())
-# print(page_text_count)
+# -------------- Task 6 Calculate Flesch Reading Ease score -------------- #    
+
+sectionSentences = ''.join(sections).replace("--", " ").replace("\n", " ")
+sectionWords = sectionSentences.translate(str.maketrans('','',string.punctuation))
+firstPageWords = page_text.replace("--", " ").replace("\n", " ").translate(str.maketrans('','',string.punctuation))
+totalWords = len(firstPageWords.split()) + countWords(sections)
+# print(totalWords)
+
+totalSentences = len(sent_tokenize(page_text)) + len(sent_tokenize(sectionSentences))
+# print(totalSentences)
+
+totalSyllables = 0
+for word in firstPageWords.split():
+    n = syllables.estimate(word)
+    totalSyllables += n
+for word in sectionWords.split():
+    n = syllables.estimate(word)
+    totalSyllables += n
+# print(totalSyllables)
+
+def FRES(totalWords, totalSentences, totalSyllables):
+    score = 206.835 - 1.015*(totalWords/totalSentences) - 84.6*(totalSyllables/totalWords)
+    return score
+print("Flesch Reading Ease Score: ", FRES(totalWords, totalSentences, totalSyllables))
+
